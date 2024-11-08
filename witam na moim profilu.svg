@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="670" height="80" viewBox="0 0 670 80">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 62.5px;
+        filter: url(#filter);
+        font-family: "Comic Sans MS";
+      }
+    </style>
+    <filter id="filter" x="5" y="7" width="662" height="81" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="Witam_na_moim_profilu" data-name="Witam na moim profilu" class="cls-1" x="6.5" y="62.5">Witam na moim profilu</text>
+</svg>
